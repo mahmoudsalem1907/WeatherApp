@@ -1,0 +1,12 @@
+body {
+  font-family: "Cairo", sans-serif;
+  position: relative;
+  background-size: cover;
+  background-image: url("https://live.staticflickr.com/4059/4396741428_c13870543b_n.jpg");
+  /* background-image: ; */
+  /* font-weight: ; */
+}
+.data {
+  border-radius: 15px;
+  background-color: rgba(255, 255, 255, 0.4);
+}
